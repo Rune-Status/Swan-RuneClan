@@ -1,4 +1,4 @@
-# H1 RuneScape Clan Lookup
+# RuneScape Clan Lookup
 
 It's simple. Uses the RuneScape api and returns a text file with the names of all the clan members. 
 
