@@ -1,4 +1,9 @@
 # RuneScape Clan Lookup
 
-Uses the RuneScape api and returns a text file with the names of all the clan members. 
-Wrote this in 20 minutes for a friend so it's probably not the best way to do it, but it works.
+This program uses the RuneScape api to grab the list of members from a given clan on RS3. 
+
+The repository features both the original program written in C#, and a newer version written in Python 3.
+
+You'll need Python 3.x to run the py version.
+
+
