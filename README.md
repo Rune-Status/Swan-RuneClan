@@ -1,6 +1,6 @@
 # Overview
 
-RSClan was originally supposed to be a simple project made for a friend a while ago. While it still is fairly simple, it gave me the opportunity to learn how to not only use python, but to write clean, clear, and concise code. You can see this difference between the original and in the python versions.
+RSClan was originally supposed to be a simple project made for a friend a while ago. While it still is fairly simple, it gave me the opportunity to learn how to not only use python and further my knowledge in C#, but to write clean, clear, and concise code. You can see this difference between the original (C#) and in the python versions.
 
 # RuneScape Clan Lookup
 
